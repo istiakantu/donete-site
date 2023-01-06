@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+}
+.donete-header{
+    background-image: url(../images/donation1.jpg);
+    text-align: center;
+    padding: 300px 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.header-titeel{
+    font-size: 50px;
+    color: white;
+}
