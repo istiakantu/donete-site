@@ -1,16 +1,118 @@
-*{
+* {
     margin: 0;
 }
-.donete-header{
-    background-image: url(../images/donation1.jpg);
+.btn-primary{
+    /* width: 160px;
+    height: 56px; */
+    background: #FF5959;
+    border-radius: 5px;
+    padding: 16px 25px;
+    color: #FFFFFF;
+    font-size: 20px;
     text-align: center;
-    padding: 300px 350px;
+
+}
+/* header style */
+header{
+    background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+}
+.donete-header {
+    background-image: url(../images/donation13.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100%;
+    height: 669px;
+    text-align: center;
+}
+.header-section {
+    padding: 170px 300px;
+}
+.header-titeel{
+    font-size: 65px;
+    color: #FFFFFF;
+    
+}
+.header-text{
+    font-size: 18px;
+    color: #FFFFFF;
+    margin: 30px 0;
+    
+}
+/* main style */
+/*  */
+/*  */
+/* amount style */
+.amount-section{
+    text-align: center;
+    margin: 100px 350px;
+}
+.amount-titel{
+    font-size: 45px;
+    color: #121212;
+}
+.amount-details{
+    font-size: 18px;
+    color: #707070;
+    margin: 20px auto;
+}
+.amount-container{
+    display: flex;
+    gap: 25px;
     
 
 }
-.header-titeel{
-    font-size: 50px;
-    color: white;
+.money-cotainer{
+    background: #FAFAFA;
+    border-radius: 5px;
+    width: 135px;
+    left: 338px;
+    top: 979px;
+    color: #707070;
+    font-size: 30px;
+    padding: 50px 30px;
+    margin-top: 20px;    
+}
+.money-cotainer-2{
+    background: #FFEEEE;
+    border-radius: 5px;
+    width: 135px;
+    left: 338px;
+    top: 979px;
+    color: #707070;
+    font-size: 30px;
+    padding: 50px 30px;
+    margin-top: 20px; 
+    border: 2px solid #FF5959   
+}
+.other-amount-details p{
+    color: #B3B3B3;
+    font-size: 18px;
+    margin: 50px auto 15px auto;
+}
+hr{
+    margin-bottom: 30px;
+}
+/* donate plan section */
+.plan{
+
+}
+.donate-plan{
+
+}
+.plan-titel{
+
+}
+.plan-details{
+
+}
+.plan-container{
+
+}
+.p-c{
+    
+}
+.plan-container-titel{
+
+}
+.plan-container-details{
+
 }
